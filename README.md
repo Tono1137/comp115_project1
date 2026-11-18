@@ -26,13 +26,12 @@ Function input is the amount of stars to generate
 "sun" is the sun
 
 
-"starcolor" is a list containing the possible colors "make_star" can choose from
+"starcolor" is a list containing the possible colors "make_star" can choose from 
 
-coordinates and scale of planets can be edited within each function
 
-(the scale of "deep" cannot be changed however, which is due to the latitudinal lines
 
-being done manually instead of generated based on radius of the planet)
+- Coordinates and scale of planets can be edited within each function
+  (the scale of "deep" cannot be changed however, which is due to the latitudinal lines eing done manually instead of generated based on radius of the planet)
 
 <img width="987" height="737" alt="image" src="https://github.com/user-attachments/assets/6b0fc85e-f6cf-41a6-951a-16da0e177e69" />
 
