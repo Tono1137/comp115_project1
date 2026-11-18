@@ -40,9 +40,9 @@ Function input is the amount of stars to generate
 Download this repository and run "Artistic Coding.py" in a python IDE.
 
 You can then change the scene by:
-1. Commenting out the function calls of certain planets (Barring Giant's Deep)
+1. Commenting out the function calls of certain planets
 2. Moving the planets around by changing their coordinates at the top of the function
-3. Changing the scale of each planet
+3. Changing the scale of each planet (Barring Giant's Deep)
 4. Altering the size and colors of the star generator
 
 
